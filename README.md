@@ -14,7 +14,7 @@ mkdir build && cd build
 cmake .. -G Ninja
 ninja
 ```
-Para mas informacion visite [esta](https://i.pinimg.com/236x/8f/8f/17/8f8f1741b98e082152e1d78fe42f8963.jpg) [pagina](https://github.com/visualboyadvance-m/visualboyadvance-m)
+Para mas informacion visite [esta](https://i.pinimg.com/236x/8f/8f/17/8f8f1741b98e082152e1d78fe42f8963.jpg) [pagina](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RD7oUdcT97Fco&index=4&ab_channel=RickAstley)
 
 ## Required Dependencies
 
