@@ -19,9 +19,17 @@ Para mas informacion visite [esta](https://i.pinimg.com/236x/8f/8f/17/8f8f1741b9
 ## Required Dependencies
 
 - [xorg](https://wiki.debian.org/Xorg)
+Usado como ayuda para iniciar la interfaz gráfica de la aplicación
+
 - [pip3](https://packages.debian.org/buster/python3-pip)
+Es python we, se ucupa
+
+- [python3-gi](https://packages.debian.org/sid/python3-gi)
 
 ### Python Requierements
 
 - [Screeninfo](https://pypi.org/project/screeninfo/)
+Un apoyo para obtener las dimensiones de la pantalla a usar y poder redimensionar de manera correcta la aplicacion
+
 - [piborg/Gamepad](https://github.com/piborg/Gamepad)
+Usado por su facilidad de mapiar los botones y joystick de cualquier control y usarlo en las interfacez
