@@ -1,2 +1,27 @@
 # RetroConsoleEscuadronBuenaOndaAlphaLoboDinamita
 Proyecto de FSEm, Emulador de GB, GB Color y GBA para raspberry pi
+
+## Dependencias Visual Boy
+```
+cd ~ && mkdir src && cd src
+git clone https://github.com/visualboyadvance-m/visualboyadvance-m.git
+cd visualboyadvance-m
+./installdeps
+
+# ./installdeps will give you build instructions, which will be similar to:
+
+mkdir build && cd build
+cmake .. -G Ninja
+ninja
+```
+Para mas informacion visite [esta](https://i.pinimg.com/236x/8f/8f/17/8f8f1741b98e082152e1d78fe42f8963.jpg) [pagina](https://github.com/visualboyadvance-m/visualboyadvance-m)
+
+## Required Dependencies
+
+- [xorg](https://wiki.debian.org/Xorg)
+- [pip3](https://packages.debian.org/buster/python3-pip)
+
+### Python Requierements
+
+- [Screeninfo](https://pypi.org/project/screeninfo/)
+- [piborg/Gamepad](https://github.com/piborg/Gamepad)
